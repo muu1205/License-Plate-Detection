@@ -9,3 +9,4 @@ Recognition method can get the vehicle license plate information and then the co
 search in their database and find out the defaulters.
 There are considered an approach to identify vehicle through recognizing of it license plate using image fusion, neural networks
 and threshold techniques as well as some experimental results to recognize the license plate successfully
+It can also be used as payment of challan or toll via account through licence number.
